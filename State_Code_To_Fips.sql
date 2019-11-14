@@ -20,6 +20,7 @@ UPDATE [dbo].[My Table Name]
 					WHEN ([STATE_CODE] = 'IA') THEN '19'
 					WHEN ([STATE_CODE] = 'ID') THEN '16'
 					WHEN ([STATE_CODE] = 'IN') THEN '18'
+					WHEN ([STATE_CODE] = 'IL') THEN '19'
 					WHEN ([STATE_CODE] = 'KS') THEN '20'
 					WHEN ([STATE_CODE] = 'KY') THEN '21'
 					WHEN ([STATE_CODE] = 'LA') THEN '22'
